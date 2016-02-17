@@ -1,0 +1,14 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "dice for D&D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dice": "index.js"
+  },
+  "author": "hydranger",
+  "license": "ISC"
+}
