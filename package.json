@@ -1,5 +1,5 @@
 {
-  "name": "dice",
+  "name": "hydranger_dice",
   "version": "1.0.0",
   "description": "dice for D&D",
   "main": "index.js",
