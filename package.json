@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "dice for D&D",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydRAnger/npm_dice.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
